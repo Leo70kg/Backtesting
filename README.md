@@ -1,3 +1,2 @@
-# abu_backtest
-
-A time-driven backtesting system aiming to Chinese futures and stocks markets based Python. Main modules include database, strategy and display UI management.
+# Backtest
+This is an extension to the framework of AbuPy, a time-driven backtesting system based Python. This system is aiming to Chinese futures, stocks markets and bitcoin market. After several updates, accomplishing the interface of minute-level backtesting and interaction to the MySQL database. Moreover, the running time of the backtesting procedure decreases a lot after optimising the algorithem and using Cython.
