@@ -1,3 +1,3 @@
 # abu_backtest
 
-阿布量化回测
+A time-driven backtesting system aiming to Chinese futures and stocks markets based Python. Main modules include database, strategy and display UI management.
